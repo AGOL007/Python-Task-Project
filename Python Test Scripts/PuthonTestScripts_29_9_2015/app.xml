@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <appSettings>
+    <add key="Browser" value="chrome"/>
+    <add key="Path" value="C:\Users\ShashankSi\Desktop\Python\"/>
+    </appSettings>
+</configuration>
